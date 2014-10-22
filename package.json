@@ -1,0 +1,33 @@
+{
+  "name": "z-isolate",
+  "version": "0.0.1",
+  "description": "smart fast sandbox",
+  "main": "lib/isolate.js",
+  "scripts": {
+    "test": "vows test/*"
+  },
+  "devDependencies": {
+    "vows": "*",
+    "assert": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zibx/z-isolate.git"
+  },
+  "keywords": [
+    "isolate sandbox fast smart"
+  ],
+  "author": "Zibx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zibx/z-isolate/issues"
+  },
+  "homepage": "https://github.com/Zibx/z-isolate",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "vows": "^0.7.0",
+    "assert": "^1.1.2"
+  }
+}
